@@ -1,18 +1,16 @@
 # NodeBots Workshop
 
-
-
 ![NodeBots](http://i.imgur.com/gdfee39.png)
 
-For more information about the community visit [nodebots.io](http://nodebots.io)
+Para más información acerca de la comunidad visitá [nodebots.io](http://nodebots.io)
 
-## Hardware Hacking with Node.js
+## Hackeando Hardware en Node.js
 
-We will learn how to program an Arduino with Node.js using the amazing [Johnny-Five](https://github.com/rwaldron/johnny-five) framework.
+Aprenderemos cómo programar un Arduino con Node.js usando el increíble framwork [Johnny-Five](https://github.com/rwaldron/johnny-five).
 
-### Prerequisites
+### Prerrequisitos
 
-Before the workshop you need to install latest stable version of [Node.js](http://nodejs.org/) and `node-gyp`
+Antes de comenzar el workshop tendrás que instalar la última versión estable de [Node.js](http://nodejs.org/) y `node-gyp.`
 
 #### OSX
 
@@ -53,7 +51,7 @@ Before the workshop you need to install latest stable version of [Node.js](http:
 
 ## The MIT License (MIT)
 
-Copyright (c) 2014 Julian Duque
+Copyright (c) 2014 Alejandro Oviedo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
