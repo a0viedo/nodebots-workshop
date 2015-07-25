@@ -51,4 +51,4 @@ board.on('ready', function() {
 $ node music_player.js
 ```
 
-### [Go to Next Lesson >>](../switch/)
+### [Go to Next Lesson >>](../lcd/)

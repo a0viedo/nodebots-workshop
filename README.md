@@ -10,7 +10,7 @@ Aprenderemos cómo programar un Arduino con Node.js usando el increíble framwor
 
 ### Prerrequisitos
 
-Antes de comenzar el workshop tendrás que instalar la última versión estable de [Node.js](http://nodejs.org/) y `node-gyp.`
+Antes de comenzar el workshop tendrás que instalar la última versión estable de [Node.js](http://nodejs.org/).
 
 #### OSX
 
@@ -21,8 +21,7 @@ Antes de comenzar el workshop tendrás que instalar la última versión estable 
 * Developer tools: **build-essential**
 
 #### Windows
-
-* Developer tools: **VS Express 2012** - [Download Here](http://www.microsoft.com/en-us/download/details.aspx?id=34673)
+Deberían poder instalar Johnny Five sin problemas.
 
 ## Content
 
@@ -30,16 +29,9 @@ Antes de comenzar el workshop tendrás que instalar la última versión estable 
 * **Basic Electronics**
  * [Digital Output - Led](content/led/)
  * [Digital Input - Push Button](content/button/)
- * [PWM - Servo](content/servo/)
- * [Analog Input - Potentiometer](content/potentiometer/)
- * [Analog Input - Temperature Sensor](content/temperature/)
 * **Other Components**
- * [Light Sensor (Photoresistor)](content/light_sensor/)
  * [Music Player (Piezo Buzzer)](content/music_player/)
- * [Digital Mechanical Switch (Relay)](content/switch/)
- * [Joystick](content/joystick/)
  * [LCD Screen](content/lcd/)
- * [Led RGB](content/rgb/)
 * **Fun projects**
  * [Holiday Ligths](content/holiday_lights/)
  * [Web Controlled RGB Led](content/web_rgb/)
@@ -51,7 +43,7 @@ Antes de comenzar el workshop tendrás que instalar la última versión estable 
 
 ## The MIT License (MIT)
 
-Copyright (c) 2014 Alejandro Oviedo
+Copyright (c) 2015 Alejandro Oviedo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

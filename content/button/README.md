@@ -35,4 +35,4 @@ board.on('ready', function () {
 $ node button.js
 ```
 
-### [Go to Next Lesson >>](../servo/)
+### [Go to Next Lesson >>](../led_switch/)
