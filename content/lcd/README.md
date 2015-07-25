@@ -50,4 +50,4 @@ board.on('ready', function() {
 $ node lcd.js
 ```
 
-### [Go to Next Lesson >>](../holiday_lights/)
+### [Go to Next Lesson >>](../ultrasonic/)
