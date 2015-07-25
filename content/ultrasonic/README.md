@@ -13,9 +13,9 @@
 
 
 
-![docs/breadboard/ping.png](breadboard/ping.png)<br>
+![docs/breadboard/ping.png](http://i.imgur.com/agyKcet.png)<br>
 
-Fritzing diagram: [docs/breadboard/ping.fzz](breadboard/ping.fzz)
+
 
 &nbsp;
 

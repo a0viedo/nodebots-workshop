@@ -32,6 +32,7 @@ Deberían poder instalar Johnny Five sin problemas.
 * **Other Components**
  * [Music Player (Piezo Buzzer)](content/music_player/)
  * [LCD Screen](content/lcd/)
+ * [Ultrasonic](content/ultrasonic/)
 * **Fun projects**
  * [Holiday Ligths](content/holiday_lights/)
  * [Web Controlled RGB Led](content/web_rgb/)
