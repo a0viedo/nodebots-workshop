@@ -2,6 +2,8 @@
 
 ![NodeBots](http://i.imgur.com/gdfee39.png)
 
+Fork del taller original de [NodeBots](https://github.com/julianduque/nodebots-workshop) hecho por [Julián Duque](https://github.com/julianduque).
+
 Para más información acerca de la comunidad visitá [nodebots.io](http://nodebots.io)
 
 ## Hackeando Hardware en Node.js
